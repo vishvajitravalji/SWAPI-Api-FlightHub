@@ -31,6 +31,7 @@ $ PHP Server: Open file in browser
 
 ## Output
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/29925835/163699947-a3e00779-52f0-4d3c-ad5a-2304b6910935.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/29925835/163700480-62ccaa38-91fe-4152-a91a-69986b4c65c0.gif)
 
-Happy coding!
+
+## Happy coding!
