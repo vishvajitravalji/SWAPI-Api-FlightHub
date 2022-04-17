@@ -8,6 +8,7 @@
 - Front-end: React
 - Back-end: PHP
 - Extentions: PHP Server https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver
+- Port: http://localhost:4300/ Please change REST-API port as per your system
 
 ## Setup
 To run this project, install it locally using npm:
@@ -31,7 +32,5 @@ $ PHP Server: Open file in browser
 ## Output
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/29925835/163699947-a3e00779-52f0-4d3c-ad5a-2304b6910935.gif)
-
-
 
 Happy coding!
