@@ -1,8 +1,8 @@
 ## Technology/Framework used
 
-- [SWAPI-API](#https://swapi.dev/documentation) : https://swapi.dev/documentation
-- [Front-end: React](#Front-end: React)
-- [Back-end: PHP](#Back-end: PHP)
+- [SWAPI-API:](#https://swapi.dev/documentation) : https://swapi.dev/documentation
+- [Front-end:] React
+- [Back-end:] PHP
 
 Before running use npm on both client, server and base root.
 
