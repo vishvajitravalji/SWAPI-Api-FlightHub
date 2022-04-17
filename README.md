@@ -6,12 +6,27 @@
 
 Before running use npm on both client, server and base root.
 
-How to run: Client
-npm start
+## Setup
+To run this project, install it locally using npm:
 
+For run Client
+```
+$ npm install
+$ npm start
+```
+
+For run Server
+```
+$ cd rest
+$ npm start or use PHP Server extension.
+$ PHP Server: Serve project	
+$ PHP Server: Stop project	
+$ PHP Server: Reload server	Stops the running server and starts it again.
+$ PHP Server: Open file in browser
+```
 Server:
 cd rest
-npm start or use PHP Server extension.
+
 
 It might also fail on the server end if you dont do : yarn add cross-fetch. So make sure to do this as well!
 
