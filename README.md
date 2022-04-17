@@ -28,7 +28,8 @@ $ PHP Server: Reload server	Stops the running server and starts it again.
 $ PHP Server: Open file in browser
 ```
 
-##Output
+## Output
+
 ![swapi-api](https://user-images.githubusercontent.com/29925835/163699811-aa74c6e5-9f1d-486b-a2cd-5d1a8fd86b2c.gif)
 
 
