@@ -3,8 +3,7 @@
 - SWAPI-API: https://swapi.dev/documentation
 - Front-end: React
 - Back-end: PHP
-- Extentions: PHP Server
-* [Extentions](#https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver)
+- Extentions: PHP Server: https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver
 
 Before running use npm on both client, server and base root.
 
