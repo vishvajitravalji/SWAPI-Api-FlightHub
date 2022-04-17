@@ -9,14 +9,12 @@ Before running use npm on both client, server and base root.
 ## Setup
 To run this project, install it locally using npm:
 
-For run Client
-```
+For run Client:
 $ npm install
 $ npm start
 ```
 
-For run Server
-```
+For run Server:
 $ cd rest
 $ npm start or use PHP Server extension.
 $ PHP Server: Serve project	
