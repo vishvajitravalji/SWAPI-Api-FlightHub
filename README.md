@@ -30,7 +30,8 @@ $ PHP Server: Open file in browser
 
 ## Output
 
-![swapi-api](https://user-images.githubusercontent.com/29925835/163699811-aa74c6e5-9f1d-486b-a2cd-5d1a8fd86b2c.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/29925835/163699947-a3e00779-52f0-4d3c-ad5a-2304b6910935.gif)
+
 
 
 Happy coding!
