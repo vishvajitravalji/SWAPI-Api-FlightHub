@@ -1,6 +1,6 @@
 ## Technology/Framework used
 
-- [SWAPI-API](#general-info)
+- [SWAPI-API](#https://swapi.dev/documentation)
 - [Front-end: React](#Front-end: React)
 - [Back-end: PHP](#Back-end: PHP)
 
