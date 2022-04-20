@@ -1,22 +1,35 @@
+## Info
+
+- This is a React app (SPA) that uses the Staw Wars (SWAPI) API to display a list of people, planets and starships.
+- Additionally, it allows you to search for an individual person.
+
 ## Technology/Framework used
 
-- [SWAPI-API](#general-info)
-- [Front-end: React](#Front-end: React)
-- [Back-end: PHP](#Back-end: PHP)
+- SWAPI-API: https://swapi.dev/documentation
+- Front-end: React
+- Back-end: PHP
+- Extentions: PHP Server https://marketplace.visualstudio.com/items?itemName=brapifra.phpserver
 
-Before running use npm on both client, server and base root.
+## Setup
 
-How to run: Client
-npm start
+To run this project, install it locally using npm:
 
-Server:
-cd rest
-npm start or use PHP Server extension.
+For run Client:
 
-It might also fail on the server end if you dont do : yarn add cross-fetch. So make sure to do this as well!
+```
+$ npm install
+$ npm start
+```
 
-Info: This is a React app that uses the Staw Wars API to generate a list of people, planets and starships. Aditionally it allows you to pull up an individual person and search the site for people.
+For run Server:
 
-It also uses express endpoints in the server.
+```
+$ cd rest
+$ npm start or use PHP Server extension.
+$ PHP Server: Serve project
+$ PHP Server: Stop project
+$ PHP Server: Reload server	Stops the running server and starts it again.
+$ PHP Server: Open file in browser
+```
 
 Happy coding!
