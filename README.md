@@ -1,4 +1,5 @@
 ## Info
+
 - This is a React app (SPA) that uses the Staw Wars (SWAPI) API to display a list of people, planets and starships.
 - Additionally, it allows you to search for an individual person.
 
@@ -32,6 +33,5 @@ $ PHP Server: Open file in browser
 ## Output
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/29925835/163700480-62ccaa38-91fe-4152-a91a-69986b4c65c0.gif)
-
 
 ## Happy coding!
